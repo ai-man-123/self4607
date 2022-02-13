@@ -1,5 +1,5 @@
 /** 
- * Join Group : https://chat.whatsapp.com/HzsrDmMZ1sFFlac2JNhccJ
+ * Github:https://github.com/ai-man-123
  * Follow IG Lindow : https://instagram.com/lindoww.8
  * Oh ya, sorry kalo code nya berantakan, gatau juga padahal di github nya rapih :)
 */
@@ -64,7 +64,7 @@ const sleep = async (ms) => {
 }
 
 fakeimage = fs.readFileSync(`./lib/image/foto2.jpg`)
-fake = 'Simple Selfbot'
+fake = 'Aiman123'
 prefix = 'z'
 apikey = 'LindowApi' // Free Apikey!
 hit_today = []
@@ -219,12 +219,12 @@ megayaa.on('chat-update', async(lin) => {
         
         switch (command) {
             case 'owner':
-                await wa.sendContact(from, owner, "Your Name")
+                await wa.sendContact(from, owner, "ꋬ꒐ꂵꋬꋊ")
                 break
             case 'help':
                 textnya = `*${ucapanWaktu}*
 
-*> for eval*
+*ꋬ꒐ꂵꋬꋊ*
 
 *Hit Today : ${hit_today.length}*
 
